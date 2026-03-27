@@ -1,0 +1,1 @@
+https://leetcode.com/quest/database-quest/quiz/employees-whose-manager-left-the-company/?envType=problem-list-v2&envId=db-db1-assignment

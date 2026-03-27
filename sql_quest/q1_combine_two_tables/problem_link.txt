@@ -1,0 +1,1 @@
+https://leetcode.com/problems/combine-two-tables/?envType=problem-list-v2&envId=db-db1-sql-i
